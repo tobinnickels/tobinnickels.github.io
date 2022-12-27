@@ -18,10 +18,10 @@ body{
 
     border-style: solid;
     border-color: ivory;
-    background-color: dimgray;
+    background-color: darkslategray;
 }
 #Xcloud-project{
-    width: 80vw;
+    width: 78vw;
     min-height: fit-content;
 
     font-family: sans-serif;
@@ -34,5 +34,5 @@ body{
 
     border-style: solid;
     border-color: ivory;
-    background-color: dimgray;
+    background-color: darkslategray;
 }
